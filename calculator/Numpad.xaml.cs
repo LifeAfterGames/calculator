@@ -45,7 +45,7 @@ namespace calculator
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Value = (string)(sender as Button).Content;
+            Value += (string)(sender as Button).Content;
         }
     }
 }
