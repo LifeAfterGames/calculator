@@ -1,0 +1,17 @@
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\Numpad.g.cs
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\App.g.cs
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\calculator_MarkupCompile.cache
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\calculator_MarkupCompile.lref
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\MainWindow.baml
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\Numpad.baml
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\calculator.g.resources
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Evan\source\repos\LifeAfterGames\calculator\calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
